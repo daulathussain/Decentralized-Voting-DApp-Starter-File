@@ -10,11 +10,11 @@ Create a Blockchain Decentralized Voting DApp | Next.js, Solidity, Wagmi, Web3 V
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/create-a-blockchain-decentralized-voting-dapp-or-next.js-solidity-wagmi-web3-voting-dapp-project)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/92eaYx6GVis?si=Esy8dI8MV4h_HNz0)
 
 Build a real-world Blockchain Voting DApp project using Next.js, Solidity, Wagmi, and Web3. This project will help you understand how to create a secure, transparent, and decentralized voting system on the Ethereum blockchain—step by step.
 
